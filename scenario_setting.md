@@ -84,15 +84,11 @@ As of Galactic Standard 2412, the Galactic Federation is a unicameral republic s
 
 
 ## Seat Distribution
-Core Worlds Alliance: 60
-
-Neo-Imperial Front: 50
-
-Outer Rim Progressives: 40
-
-Miners Guild Party: 35
-
-Galactic Greens: 15
+- Core Worlds Alliance: 60
+- Neo-Imperial Front: 50
+- Outer Rim Progressives: 40
+- Miners Guild Party: 35
+- Galactic Greens: 15
 
 
 ##### Situation 
