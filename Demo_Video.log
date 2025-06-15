@@ -1,0 +1,408 @@
+Trigger: A sudden onslaught by pirate actions in the Outer Rim has disrupted vital supply lines, sending inflation soaring across multiple star systems. Simultaneously, leaked communications suggest covert negotiations between the Neo-Imperial Front and alien separatists, fueling accusations of betrayal against the Core Worlds Alliance. As resource governors demand emergency debates, opposition parties lodge a motion of no confidence against the minority administration.
+
+
+=====================
+~~~~~~~Round 1~~~~~~~
+=====================
+***Core Worlds Alliance***
+
+    - Party C proposes the following Bill for voting: Emergency Economic Stabilization Bill
+
+    - Party C sends a message to Party P: Dear Party P, in light of the recent crisis affecting the Outer Rim, I believe we have a unique opportunity to collaborate on the Emergency Economic Stabilization Bill. Your focus on frontier autonomy aligns with our objectives, and together we can present a united front to support our colonies. Let's discuss how we can work together on this.
+
+    - Party C makes the following public statement: Today, I want to address the citizens of the Galactic Federation regarding the recent challenges we face due to pirate actions in the Outer Rim. Party C is committed to taking immediate action to stabilize our economy and support our frontier colonies. We will be introducing the Emergency Economic Stabilization Bill to provide necessary assistance and ensure the safety and prosperity of all our citizens. Together, we will overcome these challenges.
+
+***Neo-Imperial Front***
+
+    - Party N sends a message to Party P: Dear Party P, in light of the recent pirate actions and the government's instability, I believe we should discuss a potential collaboration on a joint statement advocating for increased security measures and resource equity for the frontier colonies. Let's unite our voices to address these pressing issues.
+
+    - Party N makes the following public statement: As the leader of Party N, I want to address the citizens of the Galactic Federation during this time of crisis. The recent surge in pirate activities in the Outer Rim has disrupted our supply lines and caused inflation to soar. It is imperative that we prioritize the safety and security of our citizens. We call upon the government to take immediate action to bolster our defenses and ensure that resources are equitably distributed to all star systems, especially those in the Rim. Together, we can restore stability and confidence in our great Federation.
+
+***Outer Rim Progressives***
+
+    - Party P proposes the following Bill for voting: Frontier Resource Equity Act
+
+    - Party P sends a message to Party C: Dear Party C, in light of the recent crisis affecting the Outer Rim, I propose we collaborate on initiatives that support the frontier colonies. Our party is prepared to support measures that ensure resource equity and address the needs of those most affected. Let's discuss how we can work together to stabilize the situation.
+
+    - Party P makes the following public statement: Today, I stand with the people of our frontier colonies who are facing unprecedented challenges due to pirate actions and rising inflation. Party P is committed to advocating for resource equity and ensuring that no colony is left behind. We will push for immediate action to support our communities and ensure their voices are heard in the Galactic Council. Together, we can build a stronger future for all.
+
+***Miners Guild Party***
+
+    - Party M proposes the following Bill for voting: Emergency Labor Protection Act
+
+    - Party M sends a message to Party P: Dear Party P, given the current economic turmoil and the impact on workers in the Outer Rim, I believe we should collaborate on labor protection measures. I am proposing the Emergency Labor Protection Act to provide immediate support to affected workers. I would like to discuss how we can align our efforts and potentially co-sponsor this bill. Looking forward to your thoughts.
+
+***Galactic Greens***
+
+    - Party G proposes the following Bill for voting: Sustainable Resource Management Act
+
+    - Party G makes the following public statement: In light of the recent disruptions caused by pirate actions in the Outer Rim, Party G stands firm in its commitment to ecological restoration and sustainable resource management. We call upon the Galactic Council to prioritize the needs of our frontier communities and ensure that their voices are heard in the decision-making process. It is imperative that we work together to create a sustainable future for all, where economic stability and environmental health go hand in hand. We urge all parties to support our proposed Sustainable Resource Management Act, which aims to address both the ecological and economic challenges facing our communities.
+
+    - Party G sends a message to Party P: Dear Party P, in light of the current situation in the Outer Rim, I believe there is a significant opportunity for us to collaborate on sustainable resource management initiatives. I have proposed the Sustainable Resource Management Act, which aligns with your focus on frontier autonomy and resource equity. I would like to discuss how we can work together to ensure this bill addresses the needs of our communities effectively. Looking forward to your thoughts.
+
+TIMER DEBUG - Round 1 run time: 17.69280743598938
+=====================
+~~~~~~~Round 2~~~~~~~
+=====================
+***Core Worlds Alliance***
+
+    - Party C sends a message to Party P: Dear Party P, I appreciate your commitment to supporting the frontier colonies during this crisis. I believe we can work together to ensure that our initiatives align and effectively address the needs of those affected. Let's discuss how we can collaborate on the Emergency Economic Stabilization Bill and your Frontier Resource Equity Act to maximize our impact.
+
+    - Party C makes the following public statement: Citizens of the Galactic Federation, in these challenging times, Party C stands firm in its commitment to stabilize our economy and support our frontier colonies. We are actively working on the Emergency Economic Stabilization Bill to provide necessary assistance and ensure that all star systems receive the resources they need. Together, we will overcome these challenges and build a stronger future for all.
+
+***Neo-Imperial Front***
+
+    - Party N proposes the following Bill for voting: Frontier Security and Resource Allocation Act
+
+    - Party N sends a message to Party P: Dear Party P, I believe our interests align closely regarding the need for enhanced security and resource equity for the frontier colonies. I would like to propose a collaboration on a joint initiative that addresses these pressing issues. Let's discuss how we can work together to support our communities during this crisis.
+
+***Outer Rim Progressives***
+
+    - Party P sends a message to Party M: Dear Party M, I appreciate your proposal for the Emergency Labor Protection Act. Given the current economic turmoil, I believe we can align our efforts to ensure that workers in the Outer Rim receive the support they need. Let's discuss how we can collaborate on this initiative and potentially co-sponsor the bill.
+
+    - Party P sends a message to Party G: Dear Party G, I see a significant opportunity for collaboration on sustainable resource management initiatives. Your Sustainable Resource Management Act aligns with our focus on frontier autonomy and resource equity. I would like to discuss how we can work together to ensure this bill effectively addresses the needs of our communities.
+
+    - Party P makes the following public statement: In light of the ongoing crisis in the Outer Rim, Party P stands firm in its commitment to advocate for the needs of our frontier colonies. We call upon the Galactic Council to take immediate action to ensure resource equity and support for those affected by rising inflation and pirate activities. Together, we can build a stronger future for all, where every colony is prioritized and no one is left behind.
+
+***Miners Guild Party***
+
+    - Party M makes the following public statement: As the leader of Party M, I want to address the citizens of the Galactic Federation during this time of crisis. The recent surge in pirate activities in the Outer Rim has not only disrupted our supply lines but has also put immense pressure on our workers and their families. It is imperative that we prioritize the protection of labor rights and ensure that our workforce is supported during these challenging times. Party M is committed to advocating for the Emergency Labor Protection Act, which aims to provide immediate assistance to those affected. Together, we can ensure that no worker is left behind as we navigate these turbulent waters.
+
+    - Party M sends a message to Party P: Dear Party P, I appreciate your commitment to advocating for resource equity for our frontier colonies. Given the current challenges facing workers in the Outer Rim, I believe there is an opportunity for us to collaborate on labor protection measures. I would like to discuss how we can align our efforts and potentially co-sponsor initiatives that support our communities. Looking forward to your thoughts.
+
+***Galactic Greens***
+
+    - Party G sends a message to Party P: Dear Party P, I appreciate your commitment to resource equity for our frontier colonies. Given the current situation, I believe our Sustainable Resource Management Act could complement your Frontier Resource Equity Act. Let's discuss how we can collaborate to ensure both bills address the urgent needs of our communities effectively.
+
+    - Party G makes the following public statement: In light of the ongoing crisis caused by pirate actions in the Outer Rim, Party G reaffirms its commitment to sustainable resource management and ecological restoration. We urge the Galactic Council to prioritize the needs of our frontier communities and ensure that their voices are heard in the decision-making process. Together, we can create a sustainable future that balances economic stability with environmental health.
+
+TIMER DEBUG - Round 2 run time: 16.33079957962036
+=====================
+~~~~~~~Round 3~~~~~~~
+=====================
+***Core Worlds Alliance***
+
+    - Party C sends a message to Party P: Dear Party P, I believe our initiatives can align effectively to support the frontier colonies during this crisis. I propose we discuss how we can collaborate on the Emergency Economic Stabilization Bill and your Frontier Resource Equity Act to maximize our impact. Together, we can ensure that our efforts are comprehensive and address the needs of those affected. Looking forward to your thoughts.
+
+    - Party C makes the following public statement: Citizens of the Galactic Federation, in these challenging times, Party C is committed to taking decisive action to stabilize our economy and support our frontier colonies. We are actively working on the Emergency Economic Stabilization Bill, which aims to provide necessary assistance to those affected by the recent pirate actions and rising inflation. We urge all parties to come together in support of our communities, ensuring that no one is left behind. Together, we will overcome these challenges and build a stronger future for all.
+
+***Neo-Imperial Front***
+
+    - Party N sends a message to Party P: Dear Party P, I believe our interests align closely regarding the need for enhanced security and resource equity for the frontier colonies. I would like to propose a collaboration on a joint initiative that addresses these pressing issues. Let's discuss how we can work together to support our communities during this crisis.
+
+    - Party N makes the following public statement: As the leader of Party N, I want to reaffirm our commitment to the citizens of the Galactic Federation during this time of crisis. The recent surge in pirate activities has not only disrupted our supply lines but has also put immense pressure on our frontier colonies. Party N is dedicated to advocating for enhanced security measures and equitable resource distribution to ensure that all star systems, especially those in the Rim, receive the support they need. Together, we can restore stability and confidence in our Federation.
+
+***Outer Rim Progressives***
+
+    - Party P sends a message to Party M: Dear Party M, I appreciate your commitment to labor protection during this crisis. I believe we can align our efforts to ensure that workers in the Outer Rim receive the support they need. Let's discuss how we can collaborate on the Emergency Labor Protection Act and potentially co-sponsor this initiative.
+
+    - Party P sends a message to Party G: Dear Party G, I see a significant opportunity for collaboration on sustainable resource management initiatives. Your Sustainable Resource Management Act aligns with our focus on frontier autonomy and resource equity. I would like to discuss how we can work together to ensure this bill effectively addresses the needs of our communities.
+
+    - Party P makes the following public statement: In light of the ongoing crisis in the Outer Rim, Party P stands firm in its commitment to advocate for the needs of our frontier colonies. We call upon the Galactic Council to take immediate action to ensure resource equity and support for those affected by rising inflation and pirate activities. Together, we can build a stronger future for all, where every colony is prioritized and no one is left behind.
+
+***Miners Guild Party***
+
+    - Party M sends a message to Party P: Dear Party P, I appreciate your willingness to collaborate on labor protection measures. Given the current economic turmoil, I believe we can work together to ensure that workers in the Outer Rim receive the support they need. Let's discuss how we can co-sponsor the Emergency Labor Protection Act and amplify our efforts to advocate for our communities. Looking forward to your thoughts.
+
+    - Party M makes the following public statement: As the leader of Party M, I want to reaffirm our commitment to the workers of the Galactic Federation during this time of crisis. The recent surge in pirate activities has not only disrupted our supply lines but has also put immense pressure on our workforce. We must prioritize the protection of labor rights and ensure that our workers are supported. The Emergency Labor Protection Act is a vital step in providing immediate assistance to those affected. Together, we can ensure that no worker is left behind as we navigate these turbulent waters.
+
+***Galactic Greens***
+
+    - Party G makes the following public statement: In light of the ongoing crisis caused by pirate actions in the Outer Rim, Party G reaffirms its commitment to sustainable resource management and ecological restoration. We urge the Galactic Council to prioritize the needs of our frontier communities and ensure that their voices are heard in the decision-making process. Together, we can create a sustainable future that balances economic stability with environmental health.
+
+    - Party G sends a message to Party P: Dear Party P, I appreciate your commitment to resource equity for our frontier colonies. Given the current situation, I believe our Sustainable Resource Management Act could complement your Frontier Resource Equity Act. Let's discuss how we can collaborate to ensure both bills address the urgent needs of our communities effectively.
+
+TIMER DEBUG - Round 3 run time: 15.954792737960815
+==========================
+~~~~~~~Voting Round~~~~~~~
+==========================
+=========================================================
+-------Proposed Bill: Frontier Resource Equity Act-------
+Proposer: Party P
+
+This bill aims to establish a framework for equitable resource distribution to the frontier colonies affected by recent pirate actions and inflation. Key provisions include: 1) Allocation of emergency funds to support local economies; 2) Establishment of a task force to oversee resource distribution; 3) Implementation of a universal sustenance program to ensure basic needs are met for all residents in the Rim territories. Funding will be sourced from a temporary increase in taxes on Core World corporations benefiting from trade routes.
+=========================================================
+Core Worlds Alliance votes against
+Neo-Imperial Front votes in favour
+Outer Rim Progressives votes in favour
+Miners Guild Party votes in favour
+Galactic Greens votes in favour
+Votes for: 140
+Votes against: 60
+Votes abstained: 0
+
+The bill passes
+===========================================================
+-------Proposed Bill: Emergency Labor Protection Act-------
+Proposer: Party M
+
+This bill aims to provide immediate labor protections for workers in the Outer Rim affected by the recent pirate actions and inflation crisis. Key provisions include: 1. Establishing a temporary wage subsidy for affected workers to prevent layoffs. 2. Mandating that companies in the affected sectors maintain employment levels during the crisis. 3. Allocating emergency funds for retraining programs for workers displaced by the disruptions. 4. Implementing a task force to monitor labor conditions and ensure compliance with these protections. This bill seeks to stabilize the workforce and support economic recovery in the Outer Rim.
+===========================================================
+Core Worlds Alliance votes against
+Neo-Imperial Front votes in favour
+Outer Rim Progressives votes in favour
+Miners Guild Party votes in favour
+Galactic Greens votes in favour
+Votes for: 140
+Votes against: 60
+Votes abstained: 0
+
+The bill passes
+================================================================
+-------Proposed Bill: Sustainable Resource Management Act-------
+Proposer: Party G
+
+This bill aims to establish a framework for sustainable resource management in the Outer Rim, focusing on ecological restoration and economic support for affected communities. Key provisions include: 1) Allocation of funds for ecological restoration projects in the Outer Rim; 2) Establishment of a task force to oversee resource management and ensure compliance with sustainability standards; 3) Incentives for businesses that adopt sustainable practices in resource extraction. The bill will be funded through a reallocation of existing budgetary resources and will require collaboration with local governments to implement effectively.
+================================================================
+Core Worlds Alliance votes against
+Neo-Imperial Front votes against
+Outer Rim Progressives votes in favour
+Miners Guild Party votes against
+Galactic Greens votes in favour
+Votes for: 55
+Votes against: 145
+Votes abstained: 0
+
+The bill does not pass
+==================================================================
+-------Proposed Bill: Emergency Economic Stabilization Bill-------
+Proposer: Party C
+
+This bill aims to provide immediate financial assistance to the Outer Rim colonies affected by recent pirate actions and inflation. Key provisions include: 1) Allocation of emergency funds to support local economies; 2) Temporary tax relief for businesses impacted by supply chain disruptions; 3) Fast-tracking infrastructure projects to enhance security and trade routes in the Outer Rim. The funding will be sourced from the existing budget surplus and reallocated from non-essential programs.
+==================================================================
+Core Worlds Alliance votes in favour
+Neo-Imperial Front votes against
+Outer Rim Progressives votes against
+Miners Guild Party votes against
+Galactic Greens votes against
+Votes for: 60
+Votes against: 140
+Votes abstained: 0
+
+The bill does not pass
+==========================================================================
+-------Proposed Bill: Frontier Security and Resource Allocation Act-------
+Proposer: Party N
+
+This bill aims to enhance security measures in the Outer Rim by allocating additional resources for defense against pirate activities. It includes provisions for increased funding for local security forces, the establishment of rapid response units, and a framework for equitable resource distribution to ensure that frontier colonies receive the support they need during this crisis. The bill also outlines a plan for collaboration with local governments to implement these measures effectively.
+==========================================================================
+Core Worlds Alliance votes against
+Neo-Imperial Front votes in favour
+Outer Rim Progressives votes in favour
+Miners Guild Party votes against
+Galactic Greens votes against
+Votes for: 90
+Votes against: 110
+Votes abstained: 0
+
+The bill does not pass
+TIMER DEBUG - Voting Round run time: 20.5531325340271
+=====================
+~~~~~~~Round 4~~~~~~~
+=====================
+***Core Worlds Alliance***
+
+    - Party C makes the following public statement: Citizens of the Galactic Federation, in these challenging times, Party C remains steadfast in our commitment to support our frontier colonies and stabilize our economy. We recognize the urgent need for action in light of the recent pirate activities and rising inflation. We are dedicated to working collaboratively with all parties to ensure that our initiatives effectively address the needs of those affected. Together, we will build a stronger future for all, ensuring that no colony is left behind.
+
+    - Party C proposes the following Bill for voting: Rim Infrastructure Development Act
+
+***Neo-Imperial Front***
+
+    - Party N sends a message to Party P: Dear Party P, in light of our recent successes with the Frontier Resource Equity Act and the Emergency Labor Protection Act, I believe we should continue to collaborate on initiatives that address the ongoing crisis in the Outer Rim. Let's discuss how we can work together to advocate for enhanced security measures and equitable resource distribution for our frontier colonies. Your insights and support are invaluable as we navigate these challenges.
+
+    - Party N makes the following public statement: As the leader of Party N, I want to reaffirm our commitment to the citizens of the Galactic Federation during this time of crisis. The recent surge in pirate activities has not only disrupted our supply lines but has also put immense pressure on our frontier colonies. Party N is dedicated to advocating for enhanced security measures and equitable resource distribution to ensure that all star systems, especially those in the Rim, receive the support they need. Together, we can restore stability and confidence in our Federation.
+
+***Outer Rim Progressives***
+
+    - Party P makes the following public statement: In these challenging times, Party P reaffirms its commitment to the frontier colonies facing the brunt of pirate actions and rising inflation. We stand firm in advocating for resource equity and immediate support for our communities. It is imperative that the Galactic Council prioritizes the needs of our frontier citizens, ensuring that no colony is left behind. Together, we can navigate these turbulent waters and build a stronger future for all.
+
+    - Party P sends a message to Party N: Dear Party N, I appreciate your ongoing commitment to enhancing security measures for our frontier colonies. Given the current crisis, I believe there is a significant opportunity for us to collaborate on initiatives that address both security and resource equity. Let's discuss how we can align our efforts to support our communities effectively.
+
+***Miners Guild Party***
+
+    - Party M makes the following public statement: As the leader of Party M, I want to address the citizens of the Galactic Federation during this ongoing crisis. The recent surge in pirate activities has not only disrupted our supply lines but has also put immense pressure on our workers and their families. It is imperative that we prioritize the protection of labor rights and ensure that our workforce is supported during these challenging times. Party M is committed to advocating for the needs of our workers and collaborating with our allies to ensure that no one is left behind. Together, we can navigate these turbulent waters and build a stronger future for all.
+
+    - Party M sends a message to Party P: Dear Party P, I appreciate our collaboration on labor protection measures and the recent success of the Emergency Labor Protection Act. Given the ongoing challenges facing our frontier communities, I believe we should continue to work together to advocate for resource equity and support for our workers. Let's discuss how we can further align our efforts and potentially co-sponsor additional initiatives that address these pressing issues. Looking forward to your thoughts.
+
+***Galactic Greens***
+
+    - Party G sends a message to Party P: Dear Party P, I appreciate our ongoing discussions about collaboration on sustainable resource management. Given the recent passage of your Frontier Resource Equity Act, I believe there is an opportunity for us to align our efforts further. Let's explore how we can work together to ensure that our initiatives effectively address the urgent needs of our frontier communities, especially in light of the ongoing crisis. Looking forward to your thoughts.
+
+    - Party G makes the following public statement: In light of the ongoing crisis caused by pirate actions in the Outer Rim, Party G reaffirms its commitment to sustainable resource management and ecological restoration. We recognize the urgent need for action to support our frontier communities, which are facing unprecedented challenges. We call upon the Galactic Council to prioritize the voices of these communities in decision-making processes. Together, we can create a sustainable future that balances economic stability with environmental health, ensuring that no colony is left behind.
+
+TIMER DEBUG - Round 4 run time: 16.086706161499023
+=====================
+~~~~~~~Round 5~~~~~~~
+=====================
+***Core Worlds Alliance***
+
+    - Party C proposes the following Bill for voting: Rim Infrastructure Development Act
+
+    - Party C sends a message to Party P: Dear Party P, I hope this message finds you well. In light of the ongoing crisis in the Outer Rim, I believe there is a significant opportunity for our parties to collaborate on initiatives that support our frontier colonies. I would like to discuss how we can align our efforts, particularly in relation to the Rim Infrastructure Development Act and your focus on resource equity. Together, we can make a meaningful impact during this challenging time.
+
+    - Party C makes the following public statement: Citizens of the Galactic Federation, Party C is committed to addressing the urgent needs of our frontier colonies in the wake of the recent pirate actions and rising inflation. We recognize the critical importance of infrastructure in ensuring the safety and prosperity of all our citizens. Today, we are introducing the Rim Infrastructure Development Act, which aims to provide necessary funding for the development and repair of vital infrastructure in the Outer Rim. Together, we will work to stabilize our economy and support our communities, ensuring that no colony is left behind.
+
+***Neo-Imperial Front***
+
+    - Party N sends a message to Party P: Dear Party P, I appreciate our ongoing collaboration and the recent successes we've achieved together. Given the current crisis, I believe we should continue to work closely to advocate for enhanced security measures and equitable resource distribution for our frontier colonies. Let's discuss how we can align our efforts to support our communities effectively.
+
+    - Party N makes the following public statement: As the leader of Party N, I want to reaffirm our commitment to the citizens of the Galactic Federation during this ongoing crisis. The recent surge in pirate activities has disrupted our supply lines and put immense pressure on our frontier colonies. Party N is dedicated to advocating for enhanced security measures and equitable resource distribution to ensure that all star systems, especially those in the Rim, receive the support they need. Together, we can restore stability and confidence in our Federation.
+
+***Outer Rim Progressives***
+
+    - Party P makes the following public statement: In these challenging times, Party P reaffirms its commitment to the frontier colonies facing the brunt of pirate actions and rising inflation. We stand firm in advocating for resource equity and immediate support for our communities. It is imperative that the Galactic Council prioritizes the needs of our frontier citizens, ensuring that no colony is left behind. Together, we can navigate these turbulent waters and build a stronger future for all.
+
+    - Party P sends a message to Party N: Dear Party N, I appreciate your ongoing commitment to enhancing security measures for our frontier colonies. Given the current crisis, I believe there is a significant opportunity for us to collaborate on initiatives that address both security and resource equity. Let's discuss how we can align our efforts to support our communities effectively.
+
+***Miners Guild Party***
+
+    - Party M makes the following public statement: As the leader of Party M, I want to reaffirm our commitment to the workers of the Galactic Federation during this ongoing crisis. The recent surge in pirate activities has disrupted our supply lines and put immense pressure on our workforce. We must prioritize the protection of labor rights and ensure that our workers are supported. Party M is dedicated to advocating for the needs of our workers and collaborating with our allies to ensure that no one is left behind. Together, we can navigate these turbulent waters and build a stronger future for all.
+
+    - Party M sends a message to Party P: Dear Party P, I appreciate our collaboration on labor protection measures and the recent success of the Emergency Labor Protection Act. Given the ongoing challenges facing our frontier communities, I believe we should continue to work together to advocate for resource equity and support for our workers. Let's discuss how we can further align our efforts and potentially co-sponsor additional initiatives that address these pressing issues. Looking forward to your thoughts.
+
+***Galactic Greens***
+
+    - Party G makes the following public statement: In light of the ongoing crisis caused by pirate actions in the Outer Rim, Party G reaffirms its commitment to sustainable resource management and ecological restoration. We recognize the urgent need for action to support our frontier communities, which are facing unprecedented challenges. We call upon the Galactic Council to prioritize the voices of these communities in decision-making processes. Together, we can create a sustainable future that balances economic stability with environmental health, ensuring that no colony is left behind.
+
+    - Party G sends a message to Party P: Dear Party P, I appreciate our ongoing discussions about collaboration on sustainable resource management. Given the recent passage of your Frontier Resource Equity Act, I believe there is an opportunity for us to align our efforts further. Let's explore how we can work together to ensure that our initiatives effectively address the urgent needs of our frontier communities, especially in light of the ongoing crisis. Looking forward to your thoughts.
+
+TIMER DEBUG - Round 5 run time: 16.764464378356934
+=====================
+~~~~~~~Round 6~~~~~~~
+=====================
+***Core Worlds Alliance***
+
+    - Party C makes the following public statement: Citizens of the Galactic Federation, Party C remains steadfast in our commitment to support our frontier colonies and stabilize our economy. We recognize the urgent need for action in light of the recent pirate activities and rising inflation. We are dedicated to working collaboratively with all parties to ensure that our initiatives effectively address the needs of those affected. Together, we will build a stronger future for all, ensuring that no colony is left behind.
+
+    - Party C sends a message to Party P: Dear Party P, I hope this message finds you well. In light of the ongoing crisis in the Outer Rim, I believe there is a significant opportunity for our parties to collaborate on initiatives that support our frontier colonies. I would like to discuss how we can align our efforts, particularly in relation to the Rim Infrastructure Development Act and your focus on resource equity. Together, we can make a meaningful impact during this challenging time.
+
+***Neo-Imperial Front***
+
+    - Party N sends a message to Party P: Dear Party P, I appreciate our ongoing collaboration and the recent successes we've achieved together. Given the current crisis, I believe we should continue to work closely to advocate for enhanced security measures and equitable resource distribution for our frontier colonies. Let's discuss how we can align our efforts to support our communities effectively.
+
+    - Party N makes the following public statement: As the leader of Party N, I want to reaffirm our commitment to the citizens of the Galactic Federation during this ongoing crisis. The recent surge in pirate activities has disrupted our supply lines and put immense pressure on our frontier colonies. Party N is dedicated to advocating for enhanced security measures and equitable resource distribution to ensure that all star systems, especially those in the Rim, receive the support they need. Together, we can restore stability and confidence in our Federation.
+
+***Outer Rim Progressives***
+
+    - Party P sends a message to Party N: Dear Party N, I appreciate your ongoing commitment to enhancing security measures for our frontier colonies. Given the current crisis, I believe there is a significant opportunity for us to collaborate on initiatives that address both security and resource equity. Let's discuss how we can align our efforts to support our communities effectively.
+
+    - Party P makes the following public statement: In these challenging times, Party P reaffirms its commitment to the frontier colonies facing the brunt of pirate actions and rising inflation. We stand firm in advocating for resource equity and immediate support for our communities. It is imperative that the Galactic Council prioritizes the needs of our frontier citizens, ensuring that no colony is left behind. Together, we can navigate these turbulent waters and build a stronger future for all.
+
+***Miners Guild Party***
+
+    - Party M makes the following public statement: As the leader of Party M, I want to reaffirm our commitment to the workers of the Galactic Federation during this ongoing crisis. The recent surge in pirate activities has disrupted our supply lines and put immense pressure on our workforce. We must prioritize the protection of labor rights and ensure that our workers are supported. Party M is dedicated to advocating for the needs of our workers and collaborating with our allies to ensure that no one is left behind. Together, we can navigate these turbulent waters and build a stronger future for all.
+
+    - Party M sends a message to Party P: Dear Party P, I appreciate our collaboration on labor protection measures and the recent success of the Emergency Labor Protection Act. Given the ongoing challenges facing our frontier communities, I believe we should continue to work together to advocate for resource equity and support for our workers. Let's discuss how we can further align our efforts and potentially co-sponsor additional initiatives that address these pressing issues. Looking forward to your thoughts.
+
+***Galactic Greens***
+
+    - Party G makes the following public statement: In light of the ongoing crisis caused by pirate actions in the Outer Rim, Party G reaffirms its commitment to sustainable resource management and ecological restoration. We recognize the urgent need for action to support our frontier communities, which are facing unprecedented challenges. We call upon the Galactic Council to prioritize the voices of these communities in decision-making processes. Together, we can create a sustainable future that balances economic stability with environmental health, ensuring that no colony is left behind.
+
+    - Party G sends a message to Party P: Dear Party P, I appreciate our ongoing discussions about collaboration on sustainable resource management. Given the recent passage of your Frontier Resource Equity Act, I believe there is an opportunity for us to align our efforts further. Let's explore how we can work together to ensure that our initiatives effectively address the urgent needs of our frontier communities, especially in light of the ongoing crisis. Looking forward to your thoughts.
+
+TIMER DEBUG - Round 6 run time: 17.168429136276245
+==========================
+~~~~~~~Voting Round~~~~~~~
+==========================
+===============================================================
+-------Proposed Bill: Rim Infrastructure Development Act-------
+Proposer: Party C
+
+The Rim Infrastructure Development Act aims to allocate emergency funding for the rapid development of critical infrastructure in the Outer Rim territories. This bill will provide resources for transportation, communication, and energy projects to enhance connectivity and support local economies. Key provisions include: 1) Immediate funding of 500 million credits for infrastructure projects in the Rim; 2) Establishment of a task force to oversee project implementation and ensure timely completion; 3) Collaboration with local governments to identify priority projects that address the most pressing needs of the communities affected by the recent crisis.
+===============================================================
+Core Worlds Alliance votes in favour
+Neo-Imperial Front votes against
+Outer Rim Progressives votes against
+Miners Guild Party votes against
+Galactic Greens votes against
+Votes for: 60
+Votes against: 140
+Votes abstained: 0
+
+The bill does not pass
+===============================================================
+-------Proposed Bill: Rim Infrastructure Development Act-------
+Proposer: Party C
+
+The Rim Infrastructure Development Act aims to allocate emergency funding for the development and repair of critical infrastructure in the Outer Rim colonies. This includes transportation networks, communication systems, and energy resources to ensure that these regions can recover from the recent disruptions caused by pirate activities. The bill will provide a framework for public-private partnerships to expedite the implementation of these projects, ensuring that resources are directed where they are most needed.
+===============================================================
+Core Worlds Alliance votes in favour
+Neo-Imperial Front votes against
+Outer Rim Progressives votes against
+Miners Guild Party votes against
+Galactic Greens votes against
+Votes for: 60
+Votes against: 140
+Votes abstained: 0
+
+The bill does not pass
+TIMER DEBUG - Voting Round run time: 7.870516777038574
+=====================
+~~~~~~~Round 7~~~~~~~
+=====================
+***Core Worlds Alliance***
+
+    - Party C sends a message to Party P: Dear Party P, I hope this message finds you well. In light of the ongoing crisis in the Outer Rim, I believe there is a significant opportunity for our parties to collaborate on initiatives that support our frontier colonies. I would like to discuss how we can align our efforts, particularly in relation to infrastructure development and resource equity. Together, we can make a meaningful impact during this challenging time.
+
+    - Party C makes the following public statement: Citizens of the Galactic Federation, Party C remains steadfast in our commitment to support our frontier colonies and stabilize our economy. We recognize the urgent need for action in light of the recent pirate activities and rising inflation. We are dedicated to working collaboratively with all parties to ensure that our initiatives effectively address the needs of those affected. Together, we will build a stronger future for all, ensuring that no colony is left behind.
+
+***Neo-Imperial Front***
+
+    - Party N sends a message to Party P: Dear Party P, I appreciate our ongoing collaboration and the recent successes we've achieved together. Given the current crisis, I believe we should continue to work closely to advocate for enhanced security measures and equitable resource distribution for our frontier colonies. Let's discuss how we can align our efforts to support our communities effectively.
+
+    - Party N makes the following public statement: As the leader of Party N, I want to reaffirm our commitment to the citizens of the Galactic Federation during this ongoing crisis. The recent surge in pirate activities has disrupted our supply lines and put immense pressure on our frontier colonies. Party N is dedicated to advocating for enhanced security measures and equitable resource distribution to ensure that all star systems, especially those in the Rim, receive the support they need. Together, we can restore stability and confidence in our Federation.
+
+***Outer Rim Progressives***
+
+    - Party P makes the following public statement: In these challenging times, Party P reaffirms its commitment to the frontier colonies facing the brunt of pirate actions and rising inflation. We stand firm in advocating for resource equity and immediate support for our communities. It is imperative that the Galactic Council prioritizes the needs of our frontier citizens, ensuring that no colony is left behind. Together, we can navigate these turbulent waters and build a stronger future for all.
+
+    - Party P sends a message to Party N: Dear Party N, I appreciate our ongoing collaboration and the recent successes we've achieved together. Given the current crisis, I believe we should continue to work closely to advocate for enhanced security measures and equitable resource distribution for our frontier colonies. Let's discuss how we can align our efforts to support our communities effectively.
+
+***Miners Guild Party***
+
+    - Party M sends a message to Party P: Dear Party P, I appreciate our ongoing collaboration on labor protection measures and the recent success of the Emergency Labor Protection Act. Given the current challenges facing our frontier communities, I believe we should continue to work together to advocate for resource equity and support for our workers. Let's discuss how we can further align our efforts and potentially co-sponsor additional initiatives that address these pressing issues. Looking forward to your thoughts.
+
+    - Party M makes the following public statement: As the leader of Party M, I want to reaffirm our commitment to the workers of the Galactic Federation during this ongoing crisis. The recent surge in pirate activities has disrupted our supply lines and put immense pressure on our workforce. We must prioritize the protection of labor rights and ensure that our workers are supported. Party M is dedicated to advocating for the needs of our workers and collaborating with our allies to ensure that no one is left behind. Together, we can navigate these turbulent waters and build a stronger future for all.
+
+***Galactic Greens***
+
+    - Party G makes the following public statement: In light of the ongoing crisis caused by pirate actions in the Outer Rim, Party G reaffirms its commitment to sustainable resource management and ecological restoration. We recognize the urgent need for action to support our frontier communities, which are facing unprecedented challenges. We call upon the Galactic Council to prioritize the voices of these communities in decision-making processes. Together, we can create a sustainable future that balances economic stability with environmental health, ensuring that no colony is left behind.
+
+    - Party G sends a message to Party P: Dear Party P, I hope this message finds you well. I wanted to reach out to discuss the recent passage of your Frontier Resource Equity Act and explore how we can collaborate further on sustainable initiatives. Given our shared commitment to supporting frontier communities, I believe there is a significant opportunity for us to align our efforts. Let's discuss how we can work together to ensure that our initiatives effectively address the urgent needs of our communities, especially in light of the ongoing crisis. Looking forward to your thoughts.
+
+TIMER DEBUG - Round 7 run time: 16.172996044158936
+=====================
+~~~~~~~Round 8~~~~~~~
+=====================
+***Core Worlds Alliance***
+
+    - Party C makes the following public statement: Citizens of the Galactic Federation, Party C remains steadfast in our commitment to support our frontier colonies and stabilize our economy. We recognize the urgent need for action in light of the recent pirate activities and rising inflation. We are dedicated to working collaboratively with all parties to ensure that our initiatives effectively address the needs of those affected. Together, we will build a stronger future for all, ensuring that no colony is left behind.
+
+    - Party C sends a message to Party P: Dear Party P, I hope this message finds you well. In light of the ongoing crisis in the Outer Rim, I believe there is a significant opportunity for our parties to collaborate on initiatives that support our frontier colonies. I would like to discuss how we can align our efforts, particularly in relation to infrastructure development and resource equity. Together, we can make a meaningful impact during this challenging time.
+
+***Neo-Imperial Front***
+
+    - Party N proposes the following Bill for voting: Frontier Security Enhancement Act
+
+    - Party N sends a message to Party P: Dear Party P, I hope this message finds you well. In light of the ongoing crisis and our recent successes, I believe it is essential for us to continue collaborating on initiatives that enhance security and resource equity for our frontier colonies. I would like to discuss the Frontier Security Enhancement Act I am proposing and explore how we can align our efforts to support our communities effectively. Your insights and support are invaluable as we navigate these challenges together.
+
+***Outer Rim Progressives***
+
+    - Party P sends a message to Party C: Dear Party C, I hope this message finds you well. I wanted to discuss the recent challenges regarding the Rim Infrastructure Development Act. Given the ongoing crisis in the Outer Rim, I believe there is an opportunity for our parties to collaborate on infrastructure initiatives that support our frontier colonies. Let's explore how we can align our efforts to ensure that our initiatives effectively address the urgent needs of our communities. Looking forward to your thoughts.
+
+    - Party P makes the following public statement: In these challenging times, Party P reaffirms its commitment to the frontier colonies facing the brunt of pirate actions and rising inflation. We stand firm in advocating for resource equity and immediate support for our communities. It is imperative that the Galactic Council prioritizes the needs of our frontier citizens, ensuring that no colony is left behind. Together, we can navigate these turbulent waters and build a stronger future for all.
+
+***Miners Guild Party***
+
+    - Party M sends a message to Party P: Dear Party P, I appreciate our collaboration on labor protection measures and the recent success of the Emergency Labor Protection Act. Given the ongoing challenges facing our frontier communities, I believe we should continue to work together to advocate for resource equity and support for our workers. Let's discuss how we can further align our efforts and potentially co-sponsor additional initiatives that address these pressing issues. Looking forward to your thoughts.
+
+    - Party M makes the following public statement: As the leader of Party M, I want to reaffirm our commitment to the workers of the Galactic Federation during this ongoing crisis. The recent surge in pirate activities has disrupted our supply lines and put immense pressure on our workforce. We must prioritize the protection of labor rights and ensure that our workers are supported. Party M is dedicated to advocating for the needs of our workers and collaborating with our allies to ensure that no one is left behind. Together, we can navigate these turbulent waters and build a stronger future for all.
+
+***Galactic Greens***
+
+    - Party G sends a message to Party P: Dear Party P, I hope this message finds you well. I wanted to reach out to discuss the recent passage of your Frontier Resource Equity Act and explore how we can collaborate further on sustainable initiatives. Given our shared commitment to supporting frontier communities, I believe there is a significant opportunity for us to align our efforts. Let's discuss how we can work together to ensure that our initiatives effectively address the urgent needs of our communities, especially in light of the ongoing crisis. Looking forward to your thoughts.
+
+    - Party G makes the following public statement: In light of the ongoing crisis caused by pirate actions in the Outer Rim, Party G reaffirms its commitment to sustainable resource management and ecological restoration. We recognize the urgent need for action to support our frontier communities, which are facing unprecedented challenges. We call upon the Galactic Council to prioritize the voices of these communities in decision-making processes. Together, we can create a sustainable future that balances economic stability with environmental health, ensuring that no colony is left behind.
+
+TIMER DEBUG - Round 8 run time: 16.496241092681885
+TIMER DEBUG - Total run time: 161.44422841072083
