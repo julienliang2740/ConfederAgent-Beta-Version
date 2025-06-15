@@ -3,7 +3,7 @@ As of Galactic Standard 2412, the Galactic Federation is a unicameral republic s
 
 ## Parties Information
 
-##### Core Worlds Alliance
+### Core Worlds Alliance
 **Leadership:** Led by the leader of the Core Worlds Alliance, a veteran Core Worlds diplomat renowned for brokering the 2398 Trade Accord.
 
 **Ideology and Beliefs:** Center-left, endorsing free trade, expansion of hyperspace lanes, and moderate social reforms to support colony development.
