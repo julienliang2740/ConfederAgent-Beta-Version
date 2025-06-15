@@ -19,7 +19,7 @@ As of Galactic Standard 2412, the Galactic Federation is a unicameral republic s
 **Demographic and Regional Bases:** Backed by urban professionals, civil servants, and corporate stakeholders in the Stellar Hub and Terran System.
 
 
-##### Neo-Imperial Front
+### Neo-Imperial Front
 **Leadership:** Led by the leader of Neo-Imperial Front, a former fleet admiral celebrated for restoring order in sector rebellions.
 
 **Ideology and Beliefs:** Right-leaning, advocating strong central authority, increased defense spending, and tighter immigration controls from unaligned systems.
@@ -35,7 +35,7 @@ As of Galactic Standard 2412, the Galactic Federation is a unicameral republic s
 **Demographic and Regional Bases:** Supported by fleet veterans, high-ranking officers, and affluent merchants in the Upper Belt and Central Command sectors.
 
 
-##### Outer Rim Progressives
+### Outer Rim Progressives
 **Leadership:** Led by the leader of Outer Rim Progressives, a charismatic Frontiers-born activist championing autonomy and resource equity.
 
 **Ideology and Beliefs:** Left-wing, promoting greater autonomy for frontier colonies, wealth redistribution from Core worlds, and universal sustenance programs.
@@ -51,7 +51,7 @@ As of Galactic Standard 2412, the Galactic Federation is a unicameral republic s
 **Demographic and Regional Bases:** Backed by frontier settlers, small-scale entrepreneurs, and disillusioned youths in the Theta and Sigma Rim zones.
 
 
-##### Miners Guild Party
+### Miners Guild Party
 **Leadership:** Led by the leader of Miners Guild Party, an influential union official from the Core mining guild known for organizing the 2405 sector strike.
 
 **Ideology and Beliefs:** Center-right, focusing on labor rights in heavy industries, protectionist trade policies for mineral exports, and modest social reforms.
@@ -67,7 +67,7 @@ As of Galactic Standard 2412, the Galactic Federation is a unicameral republic s
 **Demographic and Regional Bases:** Supported by unionized workers, technical specialists, and families in belt-colony settlements.
 
 
-##### Galactic Greens
+### Galactic Greens
 **Leadership:** Led by the leader of Galactic Greens, a prominent xenobiologist advocating for planetary preservation.
 
 **Ideology and Beliefs:** Green-liberal, prioritizing ecological restoration of terraformed worlds, strict emission caps on starships, and renewable energy research.
