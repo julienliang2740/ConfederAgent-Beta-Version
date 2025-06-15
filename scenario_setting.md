@@ -85,10 +85,15 @@ As of Galactic Standard 2412, the Galactic Federation is a unicameral republic s
 
 ## Seat Distribution
 Core Worlds Alliance: 60
+
 Neo-Imperial Front: 50
+
 Outer Rim Progressives: 40
+
 Miners Guild Party: 35
+
 Galactic Greens: 15
+
 
 ##### Situation 
 Day 0: A sudden onslaught by pirate actions in the Outer Rim has disrupted vital supply lines, sending inflation soaring across multiple star systems. Simultaneously, leaked communications suggest covert negotiations between the Neo-Imperial Front and alien separatists, fueling accusations of betrayal against the Core Worlds Alliance. As resource governors demand emergency debates, opposition parties lodge a motion of no confidence against the minority administration.
